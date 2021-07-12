@@ -1,4 +1,4 @@
-# ML-Prod
+# Machine Learning Production
 Building a MachineLearning API using FastApi and Containerization with Docker  
 
 |Name | Description |
